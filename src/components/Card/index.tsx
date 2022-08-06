@@ -29,7 +29,7 @@ export default function Cartilla(props: any) {
             {props.origen}
           </Typography>
           <Typography sx={{ fontSize: 17 }} color="green" gutterBottom>
-            Locación
+            Localización
           </Typography>
           <Typography sx={{ fontSize: 15 }} color="black" gutterBottom>
             {props.location}
